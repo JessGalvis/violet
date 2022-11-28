@@ -1,0 +1,14 @@
+body{background-color: #CCCCFF;}
+h1 {color: #8E45D7; font-family: "Helvetica"; font-size: 42px; text-align: center;}
+p{color: #309B96; font-family: "Garamond"; font-size: 12px; text-align: center;}
+img{border-width: 3px; border-color:#8E45D7 ;border-style: double;}
+a{color: #309B96; font-family: "Garamond"; font-size: 12px; text-decoration: none;}
+a:hover{color: #6495ED;}
+ul{list-style-type: none;}
+.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}
+
