@@ -13,5 +13,16 @@ ul{
   list-style-type: none;
   margin: 0;
   padding: 0;
-}
+  }
+   
+    <nav>
+         <ul>
+         <li><a href="world.html">World</a></li>
+	     <li><a href="sound.html">Sound</a></li>
+	     <li><a href="move.html">Move</a></li>
+         <li><a href="superpower.html">Power</a></li>
+	     <li><a href="movie.html">Movie</a></li>
+	     <li><a href="index.html">Home</a></li>
+         <ul>
+    </nav>
 }
